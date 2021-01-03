@@ -1,0 +1,40 @@
+.reg__block {
+    background-color: rgb(123, 125, 230);
+    width: 600px;
+    height: 500px;
+    margin: 100px 100px;
+}
+
+.name {
+    margin: 50px 10px;
+}
+
+.pas {
+    margin: 50px 10px;
+}
+
+.reg__block p {
+    color: white;
+    font-size: 30px;
+}
+
+.p__name {
+    margin: 10px 10px;
+}
+
+.p__pas {
+    margin: 10px 10px;
+}
+
+#error {
+    color: red;
+    font-size: 10px;
+}
+
+.vis {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
